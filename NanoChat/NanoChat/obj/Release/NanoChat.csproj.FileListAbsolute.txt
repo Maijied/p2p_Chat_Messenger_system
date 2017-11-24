@@ -1,0 +1,8 @@
+D:\Developed Project\Chat App\NanoChat\NanoChat\bin\Release\NanoChat.exe.config
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.csprojResolveAssemblyReference.cache
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.Form1.resources
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.Properties.Resources.resources
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.csproj.GenerateResource.Cache
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.TrustInfo.xml
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.exe
+D:\Developed Project\Chat App\NanoChat\NanoChat\obj\Release\NanoChat.pdb
